@@ -126,4 +126,3 @@ OpenWeatherMap for the weather data API.
 Twilio for SMS delivery.
 
 Geopy for geolocation services.
->>>>>>> ba700d1 (Signed commit)
